@@ -1,0 +1,6 @@
+#Properties settings
+#Sun Nov 15 14:14:34 EST 2020
+windowSize=32
+firstCommand=close database
+lastCommand=open database
+username=max 2.0
